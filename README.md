@@ -1,5 +1,5 @@
 # Live link will be updated soon.
-
+Unfortunately code is broken. Will fix it soon.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
